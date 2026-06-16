@@ -38,3 +38,9 @@ python bot.py
 - `alerts.py` — Telegram notifications
 
 ## Architecture
+
+
+## Daily P&L Report Sample
+| Date | Ticker | Trades | P&L |
+|------|--------|--------|-----|
+| 2024-01-15 | QQQ | 2 | +$100.00 |
